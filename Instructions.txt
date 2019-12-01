@@ -1,0 +1,4 @@
+localhost/api/profile --home api
+localhost/api/search/
+localhost/api/login  --to create login tokens
+localhost/api/search/1  --search by id
